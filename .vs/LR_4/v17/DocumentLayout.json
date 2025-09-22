@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Work\\AP_var_21\\Lab_4\\LR_4\\",
+  "WorkspaceRootPath": "D:\\Work\\AP_var_21\\Lab_3\\Lab_3.2\\LR_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5865E289-A6C8-49D4-93DD-3FD6CA67E4A1}|LR_4\\LR_4.vcxproj|D:\\Work\\AP_var_21\\Lab_4\\LR_4\\LR_4\\LR_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5865E289-A6C8-49D4-93DD-3FD6CA67E4A1}|LR_4\\LR_4.vcxproj|D:\\Work\\AP_var_21\\Lab_3\\Lab_3.2\\LR_4\\LR_4\\LR_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5865E289-A6C8-49D4-93DD-3FD6CA67E4A1}|LR_4\\LR_4.vcxproj|solutionrelative:LR_4\\LR_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LR_4.cpp",
-              "DocumentMoniker": "D:\\Work\\AP_var_21\\Lab_4\\LR_4\\LR_4\\LR_4.cpp",
+              "DocumentMoniker": "D:\\Work\\AP_var_21\\Lab_3\\Lab_3.2\\LR_4\\LR_4\\LR_4.cpp",
               "RelativeDocumentMoniker": "LR_4\\LR_4.cpp",
-              "ToolTip": "D:\\Work\\AP_var_21\\Lab_4\\LR_4\\LR_4\\LR_4.cpp",
+              "ToolTip": "D:\\Work\\AP_var_21\\Lab_3\\Lab_3.2\\LR_4\\LR_4\\LR_4.cpp",
               "RelativeToolTip": "LR_4\\LR_4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-17T19:05:38.439Z",
               "EditorCaption": ""
